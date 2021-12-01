@@ -1,0 +1,15 @@
+remote_theme: reinhart1010/ham
+ham:
+  contributing:
+    discuss:
+      type: giscus
+      repo: reinhart1010/hackapedia
+      repo-id: R_kgDOGdsfyg
+      category: Q&A
+      category_id: DIC_kwDOGdsfys4CAGhH
+      mapping: pathname
+    view_source_base_url: https://github.com/reinhart1010/hackapedia/blob/main/
+    issue_url: https://github.com/reinhart1010/hackapedia/issues/
+  site_icon: https://reinhart1010.id/wp-content/uploads/2021/10/bust-alterine-300x300.png
+tagline: The encyclopedia of the aspiring Bearers of the Shell
+title: Hackapedia
