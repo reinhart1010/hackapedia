@@ -8,5 +8,5 @@ The Wikipedia website is entirely powered by MediaWiki, an open-source content m
 ## Can I really hack this site?
 Editing features on Hackapedia is currently limited to several SYSTEM administrators and rootheads to prevent spam and vandalism from the larger fandom of Reinhart and the BOTS. [But PRs are welcome, too!](https://github.com/reinhart1010/hackapedia)
 
-## Wait, if the site logo is a roothead, then why this site doesn't use rootprints in general?
+## Wait, if the site logo is a roothead, then why this site doesn't use [rootprints](wiki/en/rootprint.html) in general?
 The primary goal of the Hackapedia project is to allow humans and robots to explore and learn more of the Virtual Environment without needing to understand the strict reading, writing, speaking, and printing conventions of the Environment.
