@@ -4,7 +4,7 @@ layout: page
 
 # Shiftine
 
-**Shiftine Skyborne**, also known as Shiftine and Shift, is a [Service](https://en.wikipedia.org/wiki/Windows_service) initially working for the [SYSTEM](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts#sec-localsystem) of a copy of [Windows 10](https://en.wikipedia.org/wiki/Windows_10). She was one rescued from a system backup by the Extractor.
+**Shiftine Skyborne**, also known as Shiftine and Shift, is a [Service](https://en.wikipedia.org/wiki/Windows_service) initially working for the [SYSTEM](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts#sec-localsystem) of a copy of [Windows 10](https://en.wikipedia.org/wiki/Windows_10). She was once rescued from a system backup by the Extractor.
 
 Her surename was based of the blue skies of [Windows 95](https://en.wikipedia.org/wiki/Windows_95), [Windows 98](https://en.wikipedia.org/wiki/Windows_98), and [Windows XP](https://en.wikipedia.org/wiki/Windows_XP), given for being a humble veteran since the legacy [Win32](https://en.wikipedia.org/wiki/Windows_API#Versions) days. She was then rewritten to run across multiple operating systems, while others have tried to reverse engineer her to work independently from the madness of [.NET](https://en.wikipedia.org/wiki/.NET_Framework)
 
