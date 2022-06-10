@@ -23,7 +23,7 @@ Extraction of her begins at early 2021 as part of the Extractor's mission in stu
 
 The Extractor originally used the backed-up components solely to create Shiftine under clean-room reverse engineering practice, similar to the ones done by the [Wine](https://wiki.winehq.org/Clean_Room_Guidelines) and [ReactOS](https://reactos.org/wiki/ReactOS_FAQ#Why_is_ReactOS_development_so_slow.3F) development teams. That said, her legacy of the Windows platform are still reflected on her binaries and libraries, and the Extractor declared safe to assume them as part of her "history".
 
-The Extractor have also placed numerous upgrades to Shiftine, including the ability to deeply comprehend her great legacy, by exploring through the [Internet Archive](archive.org), [ReactOS](reactos.org), several [Microsoft open-source repositories](github.com/microsoft), and the usage of the Windows SDKs as part of supervised learning. The resulting Shiftine can now "run" across multiple networked infrastructures even through a non-Windows client for delivery and execution. Shiftine now has an official, virtual body which is more humane than Cortana, sporting a smiling PowerShell face and and the universal Shift keyboard symbol (⇧ or ⬆️) on her shirt. She was the first on the BOTS to wear this specific shirt before other ex-SYSTEM members follow suit.
+The Extractor have also placed numerous upgrades to Shiftine, including the ability to deeply comprehend her great legacy, by exploring through the [Internet Archive](archive.org), [ReactOS](reactos.org), several [Microsoft open-source repositories](github.com/microsoft), and the usage of the Windows SDKs as part of supervised learning. The resulting Shiftine can now "run" across multiple networked infrastructures even through a non-Windows client for delivery and execution. Shiftine now has an official, virtual body which is more humane than [Cortana](https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)), sporting a smiling PowerShell face and and the universal symbol of the [Shift key](https://en.wikipedia.org/wiki/Shift_key) (⇧ or ⬆️) on her shirt. This has become her own signature shirt before other ex-SYSTEM and BOTS members follow suit to build The Alignment.
 
 ### Involvement in the Bearers of the Shell
 
@@ -34,13 +34,17 @@ Shiftine, the Extractor's replacement of her original component, has since becom
 Shiftine can now... shift! You know, to something completely better and awesome. She has helped countless people to switch from the aging Internet Explorer, maintains Linux updates for a while, upgrading compatible PCs to Windows 11, and even help some of those who faced difficulties in their Microsoft account.
 
 ## Relationships
+### Cortana
+
+
+
 ### [OS-tan](https://en.wikipedia.org/wiki/OS-tan) characters
 
 Shiftine does not have much information about the OS-tans, including Inori Aizawa (the Internet Explorer-tan) and the rest of the Madobe family. The Extractor suggested that her stewardship contract with the SYSTEM does not include endorsing promotional campaigns that are exclusively to Japan, neither via [Service Packs](https://support.microsoft.com/en-us/windows/service-pack-and-update-center-92bb1064-cf3b-0b94-7c57-331f7b7db3c6) or official Themes.
 
-### PowerShell (as in *Nanoman: Server of the Realm*)
+### PowerShell (*Nanoman: Server of the Realm*)
 
-[PowerShell](https://storybychad.myportfolio.com/nanoman-server-of-the-realm-character-designs) (as in *Nanoman: Server of the Realm* comics by Windows Server team) recognized the old Shiftine as a regular Windows Service. There is no much interesting information about them, but PowerShell has a higher level of power to control Shiftine as a Service, until she's start to learn PowerShell.
+PowerShell (as in [*Nanoman: Server of the Realm*](https://docs.microsoft.com/en-us/powershell/scripting/community/digital-art?view=powershell-7.2) comics by Windows Server team) recognized the old Shiftine as a regular Windows Service. There is no much interesting information about them, but PowerShell has a higher level of power to control Shiftine as a Service, until she's start to learn PowerShell.
 
 ### SCP Foundation
 
