@@ -1,5 +1,5 @@
 - name: "BOTS Guidebook"
   children:
   - name: "Introduction"
-    url: bots-guidelines/01-introduction.html
+    url: /bots-guidelines/01-introduction.html
     
