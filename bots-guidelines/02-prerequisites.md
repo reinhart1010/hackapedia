@@ -29,9 +29,9 @@ After mastering the OOP jungle, it's time to learn about something a little bit 
 | = | To assign the value of something |
 | == | To compare whether the two things are having the same value |
 
-There's  convention symbols that we decided to exclude to avoid confusion with the non tech-savvy people. The `^` and `^^`, which used to be the operators of [XOR (exclusive OR)](https://en.wikipedia.org/wiki/Exclusive_or), are discarded in favor of `^` the exponential operator (as commonly taught in mathematics). There's also `<<` and `>>` (left and right bit Shifts!) which we'll only include when we said so.
+There are some convention symbols that we decided to exclude to avoid confusion with the non tech-savvy people. The `^` and `^^`, which used to be the operators of [XOR (exclusive OR)](https://en.wikipedia.org/wiki/Exclusive_or), are discarded in favor of `^` the exponential operator (as commonly taught in mathematics). There's also `<<` and `>>` (left and right bit Shifts!) which we'll only include when we said so.
 
-The main reason why we use `&&` symbol [earlier](01-introduction.html) is well, computers do treat `&` differently. There's a good explanation about this, i.e. the bitwise operators, at https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/ if you're nerd enough to understand computer binary.
+The main reason why we use `&&` symbol [earlier](01-introduction.html) is well, computers do treat `&` differently. There's a good explanation about this, i.e. the bitwise operators, at <https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/> if you're nerd enough to understand computer binary.
 
 ## 3. Getting in love with your favorite operating system!
 Getting in love with your [operating system](https://en.wikipedia.org/wiki/Operating_system) is also fundamental for understanding us.

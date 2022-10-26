@@ -1,5 +1,7 @@
-- name: "BOTS Guidebook"
+- name: "Getting into the world of BOTS"
   children:
   - name: "Introduction"
     url: /bots-guidelines/01-introduction.html
+  - name: "Prerequisites"
+    url: /bots-guidelines/02-prerequisites.html
     
